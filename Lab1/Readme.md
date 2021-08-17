@@ -3,7 +3,7 @@
 Please follow the instructions on the Python 101 file and make sure everything is running on your computer. 
 There are two Python 101 files, one for Mac users and one for PC users.
 
-Once Python is up and running and you got your "Hello World" message, you are ready to run our first .ipynb script. In this first script you will learn how to make simple calculation, create variables and lists in Python.
+Once Python is up and running and you got your "Hello World" message, you are ready to run your first .ipynb script. In this first script you will learn how to make simple calculation, create variables and lists in Python.
 
 Available recordings:
 Video 1: https://youtu.be/bOdwVyed6bs
