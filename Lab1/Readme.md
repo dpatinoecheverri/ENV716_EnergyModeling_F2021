@@ -9,7 +9,13 @@ Available recordings:
 Video 1: https://youtu.be/bOdwVyed6bs
 Video 2: https://youtu.be/Prm6KsuZ60o
 
-If you have any questions, please post them on the Sakai forum, or reach out to me if you need to schedule an appointment. You will find the slides used in the class and the script developed in class and in the recordings in this folder. 
+This year you will be given an option to use Google Colab. If you choose to use Goggle Colab, you do not need to install Python and any other library in your machine. You will create you .ipynb file and run it using Google's GPU. 
 
-If you want to open the <i> Lab1_SimpleCalculation.ipynb </i> on your computer, you need save it in your computer first. Right-click on <i> Raw > Download Linked File As </i>. Save it on a local folder in your machine. Then, open jupyter notebook using your terminal (for Mac users) or Anaconda (for PC users) and, from the list of folders that appear on jupyer web application, find the folder were you saved the <i> .ipynb </i> file. After you locate the file, click on it to open.
+If you have any questions, please post them on the Sakai forum, or reach out to me if you need to schedule an appointment. You will find the slides used in the lab, scripts recordings in this folder. 
+
+You have two options to open the .ipynb files on your computer.
+
+Option 1: Locate the file in the Github repo, for example <i> Lab1_SimpleCalculation.ipynb </i>. Right-click on <i> Raw > Download Linked File As </i>. Save it on a local folder in your machine. Then, open jupyter notebook using your terminal (for Mac users) or Anaconda (for PC users) and, from the list of folders that appear on jupyer web application, find the folder were you saved the <i> .ipynb </i> file. After you locate the file, click on it to open. Remember that to run it locally you need to perform the installation steps from Python 101 files.
+
+Option 2: If you use Colab you can open the file directly from Github. Go to "**https://colab.research.google.com/notebooks/intro.ipynb**". Select File > Open Notebook. In the pop-up window navigate to the GitHub tab and locate our repository "lmmlima/ENV716_EnergyModeling_F2021". All available .ipynb file shoudl appear in the list. Choose the one you wanto to open. You can now run and make any changes to our class scripts. Make sure you save those changes to you google drive before closing it.
 
