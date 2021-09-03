@@ -12,7 +12,7 @@ Go to "https://colab.research.google.com/notebooks/intro.ipynb". Select File > O
 
 Make sure you have a copy of the e-grid 2019 file on you drive before you run the code.
 
-Details on the libraries and function using in Lab 2 script can be found in these two videos.
+Details on the libraries and function using in Lab 2 script can be found in these two videos. The first video is mainly importing the data set from the e-grid spreadsheet GEN18. And the second video shows how to slice and filter the data set.
 
 Video 1: https://youtu.be/EhTb7Wvrw3I
 Video 2: https://youtu.be/EhTb7Wvrw3I
