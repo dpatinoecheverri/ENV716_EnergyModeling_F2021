@@ -1,6 +1,7 @@
 # Lab 3 - More on filtering data sets and Pivot Tables in Python
 
 Learning goals: 
+* Finish exercises from Lab 2;
 * Learn how to change column type from character to float/int;
 * Learn how to create pivot tables from a data frame using function pivot_table();
 * Learn how to save your table as an excel file.
@@ -11,7 +12,7 @@ Make sure you have a copy of the e-grid 2019 file on you drive before you run th
 
 Details on the libraries and function used in Lab 3 script can be found in this video. 
 
-Video 1: 
+Video 1: https://youtu.be/pP_QaUEzh8I
 
 
 
