@@ -13,7 +13,7 @@ For more info on the pd.pivot_table() visit https://pandas.pydata.org/docs/refer
 
 Details on the libraries and function used in Lab 3 script can be found in this video. 
 
-Video 1: https://youtu.be/pP_QaUEzh8I
+Video 1: 
 
 
 
