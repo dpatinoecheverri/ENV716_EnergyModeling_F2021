@@ -14,5 +14,5 @@ In the pop-up window navigate to the GitHub tab and locate our repository "lmmli
 **Save a copy to your drive.** You can now run and make any changes to this file and teh modified notebook can be found in your "Colab Notebooks" folder.
 
 Video 1: https://youtu.be/Hitye209IhI 
-\\
+   
 Video 2: https://youtu.be/hPsM3_i0DjU
