@@ -13,5 +13,5 @@ To open the notebook on Colab go to "https://colab.research.google.com/notebooks
 In the pop-up window navigate to the GitHub tab and locate our repository "lmmlima/ENV716_EnergyModeling_F2021". All available .ipynb files should appear in the list. Choose the "Lab4/Lab3_Pivot_Tables.ipynb". 
 **Save a copy to your drive.** You can now run and make any changes to this file and teh modified notebook can be found in your "Colab Notebooks" folder.
 
-Video 1: 
-Video 2:
+Video 1: https://youtu.be/Hitye209IhI \\
+Video 2: https://youtu.be/hPsM3_i0DjU
