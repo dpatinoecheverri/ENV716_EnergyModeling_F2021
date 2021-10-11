@@ -10,6 +10,3 @@ If you are using Colab to open the notebook go to "https://colab.research.google
 In the pop-up window navigate to the GitHub tab and locate our repository "lmmlima/ENV716_EnergyModeling_F2021". All available .ipynb files should appear in the list. Choose the "Lab6/Lab6_MoreonLPs.ipynb". 
 **Save a copy to your drive.** You can now run and make any changes to this file and the modified notebook can be found in your "Colab Notebooks" folder.
 
-Video 1: 
-   
-Video 2: 
