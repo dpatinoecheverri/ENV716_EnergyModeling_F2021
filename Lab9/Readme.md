@@ -1,4 +1,4 @@
-# Lab 9 - More on Multiperiod LPs and Networkfow Models 
+# Lab 9 - More on Multiperiod LPs and Network Models 
 
 Learning goals:
 
