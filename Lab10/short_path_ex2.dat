@@ -1,0 +1,21 @@
+set N := N1 N2 N3 N4 N5 N6 N7;
+
+set A := (N1,N2) (N1,N3) (N2,N4) 
+         (N2,N5) (N3,N4) (N3,N6) 
+         (N4,N5) (N4,N6) (N4,N7) 
+         (N5,N7) (N6,N7);
+
+
+param:     distance :=
+  N1 N2    9   
+  N1 N3    60  
+  N2 N4    5
+  N2 N5    4
+  N3 N4    2
+  N3 N6    4
+  N4 N5    4
+  N4 N6    5
+  N4 N7    7
+  N5 N7    3
+  N6 N7    6; 
+  
