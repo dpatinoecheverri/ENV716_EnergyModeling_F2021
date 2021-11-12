@@ -12,16 +12,16 @@ In the pop-up window navigate to the GitHub tab and locate our repository "lmmli
 **Save a copy to your drive.** You can now run and make any changes to this file and the modified notebook can be found in your "Colab Notebooks" folder.
 
 
-Video 1: Examples of random number generation using randint().
+Video 1: Examples of random number generation using randint(). \\
 https://youtu.be/zD9xWzOS5TY
 
-Video 2: Examples using scipy.stats packages and the .rvs() to generate random variates, .cdf() for cumulative density function, .pdf() for probability density function and .pmf() for probability mass function.
+Video 2: Examples using scipy.stats packages and the .rvs() to generate random variates, .cdf() for cumulative density function, .pdf() for probability density function and .pmf() for probability mass function. \\
 https://youtu.be/Cn0TSrTH55o
 
-Video 3: How to generate and plot draws from uniform and normal distribution.
+Video 3: How to generate and plot draws from uniform and normal distribution. \\
 https://youtu.be/ZsnmGj2Wq_w
 
 
-Link to scipy documentation.
+Link to scipy documentation. \\
 https://docs.scipy.org/doc/scipy/reference/stats.html
 
