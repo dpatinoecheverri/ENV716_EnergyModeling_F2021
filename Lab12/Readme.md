@@ -1,4 +1,4 @@
-# Lab 12 - Simulation Random Variables in Python
+# Lab 12 - Monte Carlo Part1: Simulating Random Variables in Python
 
 Learning goals:
 
