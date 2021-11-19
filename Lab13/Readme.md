@@ -1,4 +1,4 @@
-# Lab 13 - Monte Carlo Part2: Fitting Distribution to Data in Python
+# Lab 13 - Monte Carlo Part 2: Fitting Distribution to Data in Python
 
 Learning goals:
 
